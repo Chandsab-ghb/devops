@@ -1,2 +1,1 @@
-THis file contains deployment scrip
-fffft
+THis file contains deployment script
